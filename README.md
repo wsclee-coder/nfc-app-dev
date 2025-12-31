@@ -1,1 +1,1 @@
-# NFC in React Native
+# React Native NFC reader
